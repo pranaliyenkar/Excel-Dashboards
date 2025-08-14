@@ -1,62 +1,84 @@
- FNP Sales Analysis
- 
-Overview
+# **FNP Sales Analysis – 2023**
 
-The sales analysis provides a comprehensive view of FNP's performance across various dimensions including orders, revenue, customer behavior, and product trends for the year 2023. The data reflects operations over 1000 orders, amounting to a total revenue of ₹35,20,984, with an average delivery time of 5.53 days and an average customer spend of ₹3,520.98.
+## **Overview**
 
-Key Performance Highlights
+This sales analysis provides an in-depth evaluation of FNP's 2023 performance across multiple business dimensions, including **order trends, revenue generation, customer behavior, product category insights, and operational efficiency**.
 
-Total Orders: 1000
+The dataset covers **1,000+ orders** with a **total revenue of ₹35,20,984**, an **average delivery time of 5.53 days**, and an **average customer spend of ₹3,520.98**.
 
-Total Revenue: ₹35,20,984
+The findings offer actionable insights for **strategic marketing, product portfolio optimization, and operational improvements**, showcasing proficiency in **data interpretation, trend analysis, and business intelligence reporting**.
 
-Average Delivery Time: 5.53 days
+---
 
-Average Spend per Customer: ₹3,520.98
+## **Key Performance Metrics**
 
-Revenue Insights
+| Metric                         | Value      |
+| ------------------------------ | ---------- |
+| **Total Orders**               | 1,000+     |
+| **Total Revenue**              | ₹35,20,984 |
+| **Average Delivery Time**      | 5.53 days  |
+| **Average Spend per Customer** | ₹3,520.98  |
 
-By Occasion
+---
 
-The Anniversary occasion generated the highest revenue, followed closely by Raksha Bandhan and Holi.
-Valentine’s Day and Diwali saw relatively lower revenue, indicating potential areas for marketing improvement or promotional opportunities.
+## **Revenue Insights**
 
-By Category
+### **By Occasion**
 
-The Colors category dominated in revenue generation, crossing ₹10,00,000.
-Soft Toys and Sweets followed with strong sales.
-Mugs and Plants were among the lowest-performing categories, signaling potential product strategy reevaluation.
+* **Top-Performing:** *Anniversary* (highest revenue), followed by *Raksha Bandhan* and *Holi*.
+* **Opportunities for Growth:** *Valentine’s Day* and *Diwali* underperformed, indicating potential for **targeted promotional campaigns**.
 
-By Product
+### **By Category**
 
-Top-performing products include:Pack Magnum Set -Highest revenue generator
-Dolores Gift
-Quia Gift
-Harum Pack
-Deserunt Box
-These five products each exceeded ₹1,00,000 in revenue, highlighting them as key contributors to business growth.
+* **Highest Revenue:** *Colors* category exceeded ₹10,00,000.
+* **Strong Performers:** *Soft Toys* and *Sweets*.
+* **Underperformers:** *Mugs* and *Plants*, suggesting a need for **product repositioning or promotional efforts**.
 
-Order Trends
+### **By Product**
 
-By Month 
+Top revenue-generating products (₹1,00,000+ each):
 
-March and August were the highest revenue months, each surpassing ₹7,00,000.
-Revenue dipped significantly in April, May, and October, which may warrant investigation for seasonality or campaign gaps.
+1. Pack Magnum Set *(highest revenue generator)*
+2. Dolores Gift
+3. Quia Gift
+4. Harum Pack
+5. Deserunt Box
 
-By Day of the Week
+These products represent key **sales drivers** and should be prioritized in inventory and marketing strategies.
 
-Tuesday recorded the highest daily revenue, followed by Sunday.
-Wednesday and Monday had lower revenue, potentially useful for planning promotions and operational focus.
+---
 
-By City
+## **Order Trends**
 
-The top 10 cities by order volume are led by Imphal, Dhanbad, and Kavali.
-These cities consistently outperformed others in terms of customer engagement and order frequency.
-Geographic targeting in these areas could further enhance performance.
+### **By Month**
 
-Operational Insights
+* **Peak Months:** March & August (₹7,00,000+ each).
+* **Low Months:** April, May, and October — possible seasonality effects or campaign gaps.
 
-The average delivery time of 5.53 days suggests moderate logistical efficiency. There may be room for improving delivery speeds to enhance customer satisfaction.
+### **By Day of the Week**
 
-The ₹3,520.98 average customer spend indicates a strong transaction value, reinforcing the effectiveness of product bundling or upselling strategies.
+* **Highest Revenue Days:** Tuesday, followed by Sunday.
+* **Lower Activity:** Wednesday and Monday — ideal for **flash sales or engagement campaigns**.
 
+### **By City**
+
+* **Top Markets:** Imphal, Dhanbad, and Kavali led in order volume and customer engagement.
+* Targeted geographic marketing could further enhance performance in these cities.
+
+---
+
+## **Operational Insights**
+
+* **Delivery Efficiency:** Average delivery time of 5.53 days suggests operational stability but leaves scope for **logistics optimization** to boost customer satisfaction.
+* **Customer Value:** An average spend of ₹3,520.98 per customer reflects **effective upselling and bundling strategies**.
+
+---
+
+## **Analytical Competencies Demonstrated**
+
+* **Data Analysis & Visualization:** Interpreted multi-dimensional sales data to uncover actionable patterns.
+* **Business Intelligence:** Identified high-performing segments and areas for improvement.
+* **Strategic Insights:** Recommended targeted marketing, product adjustments, and operational enhancements.
+* **Performance Benchmarking:** Evaluated performance metrics against business objectives.
+
+---
